@@ -23,10 +23,10 @@ I enjoy understanding how things work under the hood and building projects that 
 ---
 
 ## 🚀 Projects
-- ⚙️ **RTT-Engine** – Custom 3D game engine focusing on OpenGL rendering and engine architecture  
+- ⚙️ **RTT-Engine** – Custom 3D engine focusing on OpenGL rendering and engine architecture  
 - 🎮 **SFML Tic Tac Toe** – Game with AI logic and graphics  
 - 🧩 **8-Puzzle Solver** – Algorithm-based puzzle solver
-- ⚙️ **2D-RTT-ENGINE** - Custom 2D game engine focusing on SFML rendering and engine architecture
+- ⚙️ **2D-RTT-ENGINE** - Custom 2D game engine focusing on SFML rendering and game engine architecture
 
 (See pinned repositories below 👇)
 
@@ -34,7 +34,7 @@ I enjoy understanding how things work under the hood and building projects that 
 
 ## 📈 What I’m working toward
 - Deeper understanding of graphics pipelines
-- Stronger engine architecture and tooling
+- Stronger architecture and tooling for the RTT-engine (3D Game and Simulation engine) 
 - Above all the aim is to have fun, by creating cool and great projects 
 
 ---
