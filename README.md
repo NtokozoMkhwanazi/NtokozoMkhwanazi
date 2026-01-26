@@ -6,8 +6,8 @@ I enjoy understanding how things work under the hood and building projects that 
 ---
 
 ## 🧠 What I’m focused on
-- Game engine development
-- Graphics programming (OpenGL)
+- Game and Simulation engine development
+- Graphics programming (OpenGL and in the future vulkan)
 - Algorithms & problem solving
 - Writing clean, efficient, low-level code
 
