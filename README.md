@@ -1,6 +1,6 @@
 # Hi, I’m Ntokozo 👋
 
-I’m a **software developer** with a strong foundation in Mathematics, Computer Science and a huge interest in **game development, graphics programming, and low-level systems**.  
+I’m a **software developer** with a strong foundation in Mathematics, Computer Science and a huge interest in **game and simulation engine development,computer graphics programming, and low-level systems**.  
 I enjoy understanding how things work under the hood and building projects that focus on performance, structure, and clarity.
 
 ---
@@ -17,7 +17,7 @@ I enjoy understanding how things work under the hood and building projects that 
 - **Languages:** C/C++
 - **Graphics & Media:** OpenGL, SFML
 - **Libraries:** GLAD, GLFW, stb_image, ASSIMP
-- **Concepts:** OOP, Data Structures, Algorithms, Game Engine Architecture
+- **Concepts:** OOP, Data Structures, Algorithms, Game and Simulation Engine Architecture
 - **Tools:** Git, GitHub, Linux
 
 ---
@@ -26,7 +26,7 @@ I enjoy understanding how things work under the hood and building projects that 
 - ⚙️ **RTT-Engine** – Custom 3D game engine focusing on OpenGL rendering and engine architecture  
 - 🎮 **SFML Tic Tac Toe** – Game with AI logic and graphics  
 - 🧩 **8-Puzzle Solver** – Algorithm-based puzzle solver
-- ⚙️ **2D-RTT-ENGINE** - Custom 2D game engine focusing on SFML  and engine architecture & software engineering practices
+- ⚙️ **2D-RTT-ENGINE** - Custom 2D game engine focusing on SFML rendering and engine architecture
 
 (See pinned repositories below 👇)
 
@@ -41,6 +41,7 @@ I enjoy understanding how things work under the hood and building projects that 
 
 ## 📫 Contact
 - GitHub: https://github.com/ntokozoMkhwanazi
+- Email: https://Billionsntokozomkhwanazi@gmail.com
 
 ---
 
