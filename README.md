@@ -14,7 +14,7 @@ I enjoy understanding how things work under the hood and building projects that 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C/C++
+- **Languages:** C/C++, GLSL
 - **Graphics & Media:** OpenGL, SFML
 - **Libraries:** GLAD, GLFW, stb_image, ASSIMP
 - **Concepts:** OOP, Data Structures, Algorithms, Game and Simulation Engine Architecture
