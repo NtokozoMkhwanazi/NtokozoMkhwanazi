@@ -1,6 +1,6 @@
 # Hi, I’m Ntokozo 👋
 
-I’m a **software developer** with a strong interest in **game development, graphics programming, and low-level systems**.  
+I’m a **software developer** with a strong foundation in Mathematics, Computer Science and a huge interest in **game development, graphics programming, and low-level systems**.  
 I enjoy understanding how things work under the hood and building projects that focus on performance, structure, and clarity.
 
 ---
