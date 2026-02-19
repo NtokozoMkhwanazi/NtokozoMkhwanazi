@@ -145,6 +145,5 @@ I believe in:
 
 *Feel free to explore my repositories and reach out for collaborations.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=NtokozoMkhwanazi&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
