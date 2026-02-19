@@ -17,7 +17,7 @@
 🔬 Deep interest in how systems work under the hood
 ```
 
-I'm a **software developer** specializing in **computer graphics programming** and **low-level systems**. My work centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
+I specialize in**computer graphics programming** and **low-level systems**. My work centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
 
 ---
 
