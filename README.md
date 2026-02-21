@@ -17,7 +17,7 @@
 🔬 Deep interest in how systems work under the hood
 ```
 
-I specialize in**computer graphics programming** and **low-level systems**. My work centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
+I specialize in **computer graphics programming** and **systems programming**. My work centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
 
 ---
 
@@ -26,7 +26,7 @@ I specialize in**computer graphics programming** and **low-level systems**. My w
 | **Low-Level Systems** | **Graphics Programming** | **Algorithms & Simulations** |
 |----------------------|-------------------------|------------------------------|
 | Memory management | OpenGL (current) | Problem solving |
-| Engine architecture | Vulkan (upcoming) | Mini simulations |
+| software engineering principles | Vulkan (upcoming) | Mini simulations |
 | Performance optimization | Shader programming (GLSL) | Visualizations |
 | Systems programming | 3D rendering pipelines | Game development |
 
@@ -48,6 +48,7 @@ I specialize in**computer graphics programming** and **low-level systems**. My w
 - **Frameworks:** SFML
 
 ### Concepts & Architecture
+- software engineering principles
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Game Engine Architecture
@@ -76,7 +77,7 @@ I specialize in**computer graphics programming** and **low-level systems**. My w
 - **Features:** Entity management, rendering system, game loop architecture
 
 ### 🎮 SFML Tic Tac Toe
-*Classic game with AI opponent and polished graphics*
+*Classic game with AI logic opponent and polished graphics*
 - **Tech:** C++, SFML
 - **Features:** AI logic, GUI rendering, game state management
 
@@ -104,10 +105,13 @@ Current Focus:
 ├── Advanced OpenGL Techniques
 ├── Engine Architecture Patterns
 ├── Physics & Collision Systems
+├── Software engineering principles
 └── Model Import & Animation
 
+
 Next Up:
-├── Vulkan API
+├── Vulkan API 
+├── RUST programing language 
 ├── Advanced Shader Programming
 ├── Multi-threading in Game Engines
 └── Network Programming
@@ -117,10 +121,10 @@ Next Up:
 
 ## 🏆 Philosophy
 
-> *"Understanding the fundamentals builds the foundation for innovation."*
+> *"Understanding builds the foundation for innovation."*
 
 I believe in:
-- ✦ **Deep Understanding** — Knowing how things work at a low level
+- ✦ **Deep Understanding** — Knowing how things work. 
 - ✦ **Clean Architecture** — Writing maintainable, modular code
 - ✦ **Performance First** — Optimizing for efficiency without premature optimization
 - ✦ **Continuous Learning** — Always pushing boundaries and learning new technologies
