@@ -11,13 +11,13 @@
 ## 🎯 About Me
 
 ```
-👨‍💻 Software Developer
+👨‍💻 Hobby. code for fun.
 📍 Focused on Performance & Modularity
-🧮 Mathematics & Computer Science Foundation
+🧮 Mathematics & Computer Science Foundation. 
 🔬 Deep interest in how systems work under the hood
 ```
 
-I specialize in **computer graphics programming** and **systems programming**. My work centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
+I specialize in **computer graphics programming** and **systems programming**. My Hobby centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
 
 ---
 
