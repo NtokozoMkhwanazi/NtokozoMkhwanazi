@@ -11,7 +11,7 @@
 ## 🎯 About Me
 
 ```
-👨‍💻 Hobby. code for fun.
+👨‍💻 Dev.
 📍 Focused on Performance & Modularity
 🧮 Mathematics & Computer Science Foundation. 
 🔬 Deep interest in how systems work under the hood
