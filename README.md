@@ -26,7 +26,7 @@ I specialize in **computer graphics programming** and **systems programming**. M
 | **Low-Level Systems** | **Graphics Programming** | **Algorithms & Simulations** |
 |----------------------|-------------------------|------------------------------|
 | Memory management | OpenGL (current) | Problem solving |
-| software engineering principles | Vulkan (upcoming) | Mini simulations |
+| software engineering principles | Vulkan (current) | Mini simulations |
 | Performance optimization | Shader programming (GLSL) | Visualizations |
 | Systems programming | 3D rendering pipelines | Game development |
 
