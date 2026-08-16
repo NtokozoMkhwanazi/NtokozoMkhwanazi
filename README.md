@@ -42,14 +42,13 @@ I specialize in **computer graphics programming** and **systems programming**. M
 </p>
 
 ### Graphics & Media
-- **Rendering:** OpenGL, Vulkan (learning)
+- **Rendering:** OpenGL, Vulkan
 - **Libraries:** GLAD, GLFW, GLM
 - **Media:** stb_image, ASSIMP
 - **Frameworks:** SFML
 
 ### Concepts & Architecture
 - software engineering principles
-- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Game Engine Architecture
 - Simulation Engine Design
@@ -67,7 +66,7 @@ I specialize in **computer graphics programming** and **systems programming**. M
 
 ### ⚙️ RTT-Engine (3D Game Engine)
 *A custom 3D engine focusing on industry-standard architecture while remaining lightweight*
-- **Tech:** C++, OpenGL, GLSL, ASSIMP
+- **Tech:** C++, OpenGL,vulkan, GLSL, ASSIMP
 - **Features:** Custom rendering pipeline, model importing, shader management
 - **Status:** Active Development
 
@@ -102,19 +101,11 @@ I specialize in **computer graphics programming** and **systems programming**. M
 
 ```
 Current Focus:
-├── Advanced OpenGL Techniques
-├── Engine Architecture Patterns
-├── Physics & Collision Systems
-├── Software engineering principles
-└── Model Import & Animation
-
-
-Next Up:
-├── Vulkan API 
-├── RUST programing language 
+├── penGL & Vulkan
+├── Engine Architecture 
+├── Software engineering principles  
 ├── Advanced Shader Programming
 ├── Multi-threading in Game Engines
-└── Network Programming
 ```
 
 ---
@@ -124,9 +115,9 @@ Next Up:
 > *"Understanding builds the foundation for innovation."*
 
 I believe in:
-- ✦ **Deep Understanding** — Knowing how things work. 
-- ✦ **Clean Architecture** — Writing maintainable, modular code
-- ✦ **Performance First** — Optimizing for efficiency without premature optimization
+- ✦ **Deep Understanding** — Knowing how and why  things work. 
+- ✦ **Clean Architecture** — software Engineering principles 
+- ✦ **High-Performance code** — Optimizing for efficiency without premature optimization
 - ✦ **Continuous Learning** — Always pushing boundaries and learning new technologies
 
 ---
