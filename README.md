@@ -17,7 +17,7 @@
 🔬 Deep interest in how systems work under the hood
 ```
 
-I specialize in **computer graphics programming** and **systems programming**. My Hobby centers on building high-performance, modular systems with a strong emphasis on understanding fundamental principles rather than relying on abstractions.
+I specialize in **computer graphics programming** and **systems programming**. I enjoy building high-performance, modular systems, Be it for a particular Algorithm, Data Structure or understanding simple or complex software engineering problems, this is for keeping up with my academic work from varsity, some projects are from school and others are personal. The focus for all projects created here is learning and documenting what i've learned.
 
 ---
 
@@ -25,10 +25,10 @@ I specialize in **computer graphics programming** and **systems programming**. M
 
 | **Low-Level Systems** | **Graphics Programming** | **Algorithms & Simulations** |
 |----------------------|-------------------------|------------------------------|
-| Memory management | OpenGL (current) | Problem solving |
-| software engineering principles | Vulkan (current) | Mini simulations |
+| Memory management | OpenGL  | Problem solving |
+| software engineering principles | Vulkan| Mini simulations |
 | Performance optimization | Shader programming (GLSL) | Visualizations |
-| Systems programming | 3D rendering pipelines | Game development |
+| Systems programming | 3D rendering pipelines | Software development |
 
 ---
 
@@ -43,7 +43,7 @@ I specialize in **computer graphics programming** and **systems programming**. M
 
 ### Graphics & Media
 - **Rendering:** OpenGL, Vulkan
-- **Libraries:** GLAD, GLFW, GLM
+- **Libraries:** AMDFSR3,GLAD, GLFW, GLM
 - **Media:** stb_image, ASSIMP
 - **Frameworks:** SFML
 
@@ -66,9 +66,9 @@ I specialize in **computer graphics programming** and **systems programming**. M
 
 ### ⚙️ RTT-Engine (3D Game Engine)
 *A custom 3D engine focusing on industry-standard architecture while remaining lightweight*
-- **Tech:** C++, OpenGL,vulkan, GLSL, ASSIMP
+- **Tech:** C++, OpenGL,vulkan,AMD FSR3,GLSL, ASSIMP
 - **Features:** Custom rendering pipeline, model importing, shader management
-- **Status:** Active Development
+- **Status:** Highly Active Development
 
 ### 🎮 2D-RTT-Engine
 *A custom 2D game engine built on SFML with focus on clean architecture*
@@ -138,7 +138,7 @@ I believe in:
 
 **Thanks for visiting my profile!** 🚀
 
-*Feel free to explore my repositories and reach out for collaborations.*
+*Feel free to explore my repositories.*
 
 
 </div>
