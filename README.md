@@ -101,7 +101,7 @@ I specialize in **computer graphics programming** and **systems programming**. I
 
 ```
 Current Focus:
-├── penGL & Vulkan
+├── OpenGL/Vulkan AMD FSR3 
 ├── Engine Architecture 
 ├── Software engineering principles  
 ├── Advanced Shader Programming
@@ -115,8 +115,8 @@ Current Focus:
 > *"Understanding builds the foundation for innovation."*
 
 I believe in:
-- ✦ **Deep Understanding** — Knowing how and why  things work. 
-- ✦ **Clean Architecture** — software Engineering principles 
+- ✦ **Deep Understanding** — Knowing how and why  things work 
+- ✦ **Clean Architecture** — software Engineering principles and patterns
 - ✦ **High-Performance code** — Optimizing for efficiency without premature optimization
 - ✦ **Continuous Learning** — Always pushing boundaries and learning new technologies
 
