@@ -1,8 +1,5 @@
 # Hi, I'm Ntokozo Mkhwanazi (RTT-DEV) 👋
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -32,11 +29,7 @@ My repositories serve as a living sandbox for complex software engineering princ
 ## 🛠️ Technical Stack
 
 ### 💻 Languages & Environments
-<p align="left">
-  <img src="https://shields.io" alt="C++17" />
-  <img src="https://shields.io" alt="GLSL / SPIR-V" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+
 
 ### 📐 Graphics, Math & Processing APIs
 * **Graphics Backends:** Vulkan 1.0, OpenGL 4.5 Core Profile
@@ -90,14 +83,6 @@ Roadmap Focus Areas:
 
 ---
 
-## 📊 GitHub Contribution Metrics
-
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Philosophy
 
 > *"Understanding builds the foundation for innovation."*
@@ -107,13 +92,6 @@ Roadmap Focus Areas:
 * ✦ **Architectural Precision** — Keep loops tight, allocations deterministic, and dependencies explicit. Clean code isn't just about style; it's about predictable behavior.
 
 ---
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://shields.io)](https://github.com)
-[![Email](https://shields.io)](mailto:billionsntokozomkhwanazi@gmail.com)
 
 </div>
 
