@@ -1,112 +1,100 @@
 # Hi, I'm Ntokozo Mkhwanazi (RTT-DEV) 👋
 
-<div align="center">
-
-
-
-</div>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🎯 About Me
 
-```
-👨‍💻 Dev.
-📍 Focused on Performance & Modularity
-🧮 Mathematics & Computer Science Foundation. 
-🔬 Deep interest in how systems work under the hood
+```micro-profile
+👨‍💻 Graphics & Systems Developer
+📍 Focused on Performance, Modularity & Low-Level Architecture
+🧮 Mathematics & Computer Science Foundation
+🔬 Driven by a deep interest in how systems work under the hood
 ```
 
-I specialize in **computer graphics programming** and **systems programming**. I enjoy building high-performance, modular systems, Be it for a particular Algorithm, Data Structure or understanding simple or complex software engineering problems, this is for keeping up with my academic work from varsity, some projects are from school and others are personal. The focus for all projects created here is learning and documenting what i've learned.
+I specialize in **Computer Graphics Programming** and **Systems Programming**. I build high-performance, modular systems to solve complex software engineering problems, refine core data structures, and optimize low-level algorithms. 
+
+This profile serves as a living documentation of my academic journey through varsity alongside my deeply technical personal projects. Every repository here is focused on deep learning, meticulous engineering, and documenting execution.
 
 ---
 
 ## 🔬 Areas of Focus
 
-| **Low-Level Systems** | **Graphics Programming** | **Algorithms & Simulations** |
-|----------------------|-------------------------|------------------------------|
-| Memory management | OpenGL  | Problem solving |
-| software engineering principles | Vulkan| Mini simulations |
-| Performance optimization | Shader programming (GLSL) | Visualizations |
-| Systems programming | 3D rendering pipelines | Software development |
+| ⚙️ Low-Level Systems | 🎨 Graphics Programming | 🧮 Algorithms & Simulations |
+| :--- | :--- | :--- |
+| • Memory Management<br>• Software Engineering Principles<br>• Performance Optimization<br>• Hardware-level Systems | • OpenGL & Vulkan API<br>• Shader Programming (GLSL)<br>• 3D Rendering Pipelines<br>• AMD FSR3 Integration | • Complex Problem Solving<br>• Physics & Mini-Simulations<br>• Dynamic Visualizations<br>• Core Architecture Design |
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Languages & Core
+### 💻 Languages & Core
 <p align="left">
-  <code title="C/C++"><img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></code>
-  <code title="GLSL"><img src="https://img.shields.io/badge/GLSL-%23555555.svg?style=for-the-badge&logo=opengl&logoColor=white"/></code>
-  <code title="Git"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></code>
+  <img src="https://shields.io" alt="C/C++" />
+  <img src="https://img.shields.io/badge/GLSL-%23555555.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+  <img src="https://shields.io" alt="Linux" />
 </p>
 
-### Graphics & Media
-- **Rendering:** OpenGL, Vulkan
-- **Libraries:** AMDFSR3,GLAD, GLFW, GLM
-- **Media:** stb_image, ASSIMP
-- **Frameworks:** SFML
+### 🎨 Graphics & Frameworks
+* **APIs:** Vulkan, OpenGL (GLAD, GLFW)
+* **Math & Geometry:** GLM, ASSIMP
+* **Media & Processing:** stb_image, SFML
+* **Fidelity Solutions:** AMD FSR3
 
-### Concepts & Architecture
-- software engineering principles
-- Data Structures & Algorithms
-- Game Engine Architecture
-- Simulation Engine Design
-- Memory Management
-- Performance Optimization
+### 🏗️ Concepts & Architecture
+* Software Engineering Principles & Design Patterns
+* Game Engine & Simulation Architecture
+* Custom Memory Management & Allocators
+* High-Performance Code Optimization
 
-### Tools & Environment
-- **Version Control:** Git, GitHub
-- **OS:** Linux
-- **Build Systems:** Makefile
+### 🔧 Tools & Environment
+* **OS:** Linux (Development Environment)
+* **Build Systems:** GNU Make / Makefiles
+* **Version Control:** Git, GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⚙️ RTT-Engine (3D Game Engine)
-*A custom 3D engine focusing on industry-standard architecture while remaining lightweight*
-- **Tech:** C++, OpenGL,vulkan,AMD FSR3,GLSL, ASSIMP
-- **Features:** Custom rendering pipeline, model importing, shader management
-- **Status:** Highly Active Development
+*A custom, lightweight 3D engine built to study industry-standard architectural principles.*
+* **Tech:** C++, Vulkan, OpenGL, AMD FSR3, GLSL, ASSIMP
+* **Features:** Custom programmable rendering pipeline, asset importing pipeline, and dynamic shader management.
+* **Status:** 🛠️ Highly Active Development
 
 ### 🎮 2D-RTT-Engine
-*A custom 2D game engine built on SFML with focus on clean architecture*
-- **Tech:** C++, SFML
-- **Features:** Entity management, rendering system, game loop architecture
-
-### 🎮 SFML Tic Tac Toe
-*Classic game with AI logic opponent and polished graphics*
-- **Tech:** C++, SFML
-- **Features:** AI logic, GUI rendering, game state management
+*A customized 2D game framework built on top of SFML with an emphasis on strict decoupled architecture.*
+* **Tech:** C++, SFML
+* **Features:** Entity-component management, precise rendering subsystems, and fixed-timestep loop architecture.
 
 ### 🧩 8-Puzzle Solver
-*Algorithm-based puzzle solver with visualization*
-- **Tech:** C++, Algorithms
-- **Features:** A* search, pathfinding visualization, optimal solutions
+*An algorithmic exploration into pathfinding and state-space tree traversal with real-time feedback.*
+* **Tech:** C++, Data Structures & Algorithms
+* **Features:** Optimized A* Search algorithm, heuristic evaluations, and step-by-step path visualization.
+
+### 🎮 SFML Tic-Tac-Toe
+*Classic strategy implementation utilizing structured state management and intelligent adversary logic.*
+* **Tech:** C++, SFML
+* **Features:** Minimax AI logic engine, immediate GUI rendering, and clean game-state machine transitions.
 
 ---
 
-## 📊 GitHub Activity
+### 📈 Current Focus Areas:
+  ├── Vulkan API Integration & Device Memory Management
+  ├── Engine Architecture & Subsystem Threading
+  ├── Advanced Compute & Fragment Shaders (GLSL)
+  └── Software Engineering Architecture & Micro-Optimizations
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NtokozoMkhwanazi&theme=github-dark&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com/?user=NtokozoMkhwanazi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 📈 Learning Path
-
-```
-Current Focus:
-├── OpenGL/Vulkan AMD FSR3 
-├── Engine Architecture 
-├── Software engineering principles  
-├── Advanced Shader Programming
-├── Multi-threading in Game Engines
-```
 
 ---
 
@@ -114,11 +102,10 @@ Current Focus:
 
 > *"Understanding builds the foundation for innovation."*
 
-I believe in:
-- ✦ **Deep Understanding** — Knowing how and why  things work 
-- ✦ **Clean Architecture** — software Engineering principles and patterns
-- ✦ **High-Performance code** — Optimizing for efficiency without premature optimization
-- ✦ **Continuous Learning** — Always pushing boundaries and learning new technologies
+* ✦ **Deep Comprehension** — Never code abstractly; know exactly how things work under the hood.
+* ✦ **Clean Architecture** — Prioritize design patterns and engineering integrity over hasty completion.
+* ✦ **Mechanical Sympathy** — Optimize for actual hardware limits without introducing premature complexity.
+* ✦ **Persistent Iteration** — Treat every block of code as an academic stepping stone.
 
 ---
 
@@ -127,7 +114,6 @@ I believe in:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NtokozoMkhwanazi)
-
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billionsntokozomkhwanazi@gmail.com)
 
 </div>
@@ -136,9 +122,7 @@ I believe in:
 
 <div align="center">
 
-**Thanks for visiting my profile!** 🚀
-
-*Feel free to explore my repositories.*
-
+**Thanks for visiting my ecosystem!** 🚀  
+*Feel free to explore my source code or open a discussion.*
 
 </div>
