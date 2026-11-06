@@ -1,7 +1,7 @@
 ## 🎯 About Me
 
 ```micro-profile
-👨‍💻 Core Focus: Graphics Programming, Systems Architecture & Software Engineering and Applications of mathematics
+👨‍💻 Core Focus: Graphics Programming, Systems Architecture & Software Engineering and Applications.
 🧮 Education: Mathematics & Computer Science major 
 ```
 ---
